@@ -19,3 +19,8 @@ Karen: Beyond understanding the basics of coding, I also familiarized myself wit
 Yudi: I observed that humans work incredibly fast and efficient under pressure :) I really appreciate how the three languages come together so smoothly. But then again, I need to learn more about all these three languages to use them fluently. Through this experience, I realized how little I know about coding, and how vast and versatile this field actually is. 
 ## What's next for A Brief Introduction to Quantum Mechanics
 As we work on our Javascript, HTML, and CSS knowledge, we can further develop this website to be more interactive and pretty. In addition, we can add other topics to the web page. 
+
+##Licenses
+card.mp3 from:
+   License: The sound effect is permitted for non-commercial use under license “Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+   http://www.orangefreesounds.com/
