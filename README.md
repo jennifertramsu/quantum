@@ -20,7 +20,7 @@ Yudi: I observed that humans work incredibly fast and efficient under pressure :
 ## What's next for A Brief Introduction to Quantum Mechanics
 As we work on our Javascript, HTML, and CSS knowledge, we can further develop this website to be more interactive and pretty. In addition, we can add other topics to the web page. 
 
-##Licenses
+## Licenses
 card.mp3 from:
    License: The sound effect is permitted for non-commercial use under license “Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
    http://www.orangefreesounds.com/
