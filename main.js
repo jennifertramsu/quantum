@@ -125,6 +125,8 @@ function move() {
 */
 
 function flip() {
+    var audio = new Audio('card.mp3');
     var card = document.querySelector('.card');
     card.classList.toggle('flipped');
+    audio.play();
 }
